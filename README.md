@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="BAB1F93D-BB62-4D84-9FCA-9AD86A209324.png" alt="Banner" width="900"/>
+</p>
+
 # 👋 Hello! I'm Mario Leon  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 **Data Scientist | Machine Learning | Business Strategy**  
