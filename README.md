@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mario Leon  
 
-<!--
-**Mandres1892/Mandres1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Científico de Datos | Machine Learning | Estrategia de Negocios**  
+Apasionado por transformar datos en decisiones estratégicas de alto impacto.  
+Con 8+ años de experiencia en **consumo masivo, logística y finanzas**, hoy enfoco mi perfil en aplicar **IA y analítica avanzada** para generar valor en las organizaciones.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Sobre mí  
+- 📊 Experto en **Machine Learning, BI y analítica aplicada al negocio**.  
+- 🛠️ Dominio de **Python, SQL, Pandas, NumPy, Scikit-Learn, Power BI y Streamlit**.  
+- 🌍 Experiencia LATAM en proyectos de **optimización, automatización y reducción de costos operativos**.  
+- 🏍️ Amante de las motos de aventura y la innovación tecnológica.  
+
+
+
+## ⚡ Tecnologías & Herramientas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 🌐 Conecta conmigo  
+📫 [LinkedIn](http://linkedin.com/in/mandresleon)  
+📧 **mandres.leon64@hotmail.com**  
+📂 [Portafolio en GitHub](https://github.com/mandresleon)  
+
+---
+
+✨ *“Los datos cuentan historias; mi trabajo es traducirlas en decisiones que transformen los negocios.”*  
