@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://mi-url-de-imagen.com/banner.png](https://media.licdn.com/dms/image/v2/D4D12AQFvOZP_xeiKKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1698417948081?e=2147483647&v=beta&t=0Dx64DRBQCgup_QeQVJQmBH5sJ2Nj4Ng-_DqSEKyTEE)" alt="Banner" width="900"/>
+<img src="./github banner.jpg" alt="Banner" width="800"/>
 </p>
 
 # 👋 Hello! I'm Mario Leon  
