@@ -20,6 +20,16 @@
 
 ## 📂 Featured Projects  
 
+**some of them just to involve you about my skills**
+
+• 🎮 Game_Shop
+Video game sales analysis (1980–2016) to identify global and regional industry trends.
+• 🛢️ OilyGiant
+Oil field prospecting data modeling using linear regression to select the best locations for 200 new wells.
+• 🚕 Zuber
+Taxi trip data analysis, focusing on demand patterns by area and time to optimize operations.
+• ⛏️ Zyfra_ML
+Machine learning prototype to predict gold recovery in mining, optimizing production parameters.
 
 ---
 
